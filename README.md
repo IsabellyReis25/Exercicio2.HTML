@@ -34,7 +34,9 @@
 
   <article>
                 <h3>Os origamis podem nos trazer benefícios?</h3>
-                <p>Sim.</p>
+                <p>Sim, fazer origamis pode trazer muitos benefícios. Ao dobrar o papel,<br>desenvolvemos a concentração, a coordenação motora e a criatividade. Além disso, a prática ajuda a relaxar,<br>diminuindo o estresse, e ensina paciência e disciplina. Assim, o origami não é apenas uma arte divertida, mas também uma <br>forma de aprendizado e bem-estar.
+
+ </p>
             </article>
         </section>
 
