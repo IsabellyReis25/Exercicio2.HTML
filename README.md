@@ -41,17 +41,17 @@
         </section>
 
  <section>
-            <h2>Mídia</h2>
+            <h2>Observe no vídeo abaixo como se faz um tsuru!</h2>
             <h3>Vídeo</h3>
             <video width="320" height="240" controls>
                 <source src="midia/video.mp4" type="video/mp4">
-                Seu navegador não suporta vídeos em HTML5.
+            Vídeo explicativo.
             </video>
 
  <h3>Áudio</h3>
             <audio controls>
                 <source src="midia/audio.mp3" type="audio/mpeg">
-                Seu navegador não suporta áudio em HTML5.
+                Audio.
             </audio>
         </section>
     </main>
