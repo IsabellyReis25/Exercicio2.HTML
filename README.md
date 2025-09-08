@@ -33,8 +33,8 @@
             </article>
 
   <article>
-                <h3>O </h3>
-                <p>Escreva aqui outro texto criativo.</p>
+                <h3>Os origamis podem nos trazer benefícios?</h3>
+                <p>Sim.</p>
             </article>
         </section>
 
