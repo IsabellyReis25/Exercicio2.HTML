@@ -22,7 +22,7 @@
 <main>
         <section>
             <h2>Veja um exemplo!</h2>
-            <img src="" alt="O famoso tsuru" width="300">
+            <img src="https://i.pinimg.com/474x/9c/5e/f5/9c5ef5e7cf02ad1d51919c6bc61ec799.jpg" alt="O famoso tsuru" width="300">
         </section>
 
    <section>
