@@ -29,7 +29,7 @@
             <h2>Você sabe como surgiu o termo "origami"?</h2>
             <article>
                 <h3>Veja agora!</h3>
-                <p>Origami significa a arte japonesa de dobrar papel sem a necessidade de cortes ou cola, <br>formando objetos e figuras. A palavra deriva do japonês "ori" (dobrar) e "kami" (papel).<br> Esta técnica milenar, além de ser uma forma de arte e decoração, estimula a criatividade,<br> a coordenação motora e tem associações com a matemática, a espiritualidade e a cultura japonesa,<br> onde figuras como o tsuru simbolizam saúde e boa sorte. .</p>
+                <p>Origami significa a arte japonesa de dobrar papel sem a necessidade de cortes ou cola, <br>formando objetos e figuras. A palavra deriva do japonês "ori" (dobrar) e "kami" (papel).<br> Esta técnica milenar, além de ser uma forma de arte e decoração, estimula a criatividade,<br> a coordenação motora e tem associações com a matemática, a espiritualidade e a cultura japonesa,<br> onde figuras como o tsuru simbolizam saúde e boa sorte.</p>
             </article>
 
   <article>
