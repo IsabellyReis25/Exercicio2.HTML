@@ -43,7 +43,7 @@
             <h2>Observe na imagem abaixo como se faz um tsuru!</h2>
            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftuacasa.uol.com.br%2Ftsuru%2F&psig=AOvVaw2r1olBU_8Z0vOffa_uyw2W&ust=1757521082024000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLDp68iLzI8DFQAAAAAdAAAAABAE" alt="Aprendeu?" width="300">
 
-        </section>
+       
     </main>
 
   <footer>
