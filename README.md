@@ -41,23 +41,14 @@
         </section>
 
  <section>
-            <h2>Observe no vídeo abaixo como se faz um tsuru!</h2>
-            <h3>Vídeo</h3>
-            <video width="320" height="240" controls>
-                <source src="midia/video.mp4" type="video/mp4">
-            Vídeo explicativo.
-            </video>
+            <h2>Observe na imagem abaixo como se faz um tsuru!</h2>
+           <img src="" alt="Aprendeu?" width="300">
 
- <h3>Áudio</h3>
-            <audio controls>
-                <source src="midia/audio.mp3" type="audio/mpeg">
-                Audio.
-            </audio>
         </section>
     </main>
 
   <footer>
-        <p>Feito por [Isabelly Reis] - [08/09]</p>
+        <p>Feito por [Isabelly Reis e Isabelle Vitórya] - [09/09]</p>
     </footer>
 
 </body>
