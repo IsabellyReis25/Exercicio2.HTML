@@ -40,7 +40,7 @@
             </article>
          </section>
   <h2> Clique no link para aprender também!</h2>
-  <a href="https://www.youtube.com/watch?v=PbRjiPm7w38">Visite o vídeo!</a>
+  <a href="https://www.youtube.com/watch?v=PbRjiPm7w38">Clique aqui!</a>
     </main>
 
   <footer>
